@@ -25,11 +25,11 @@ A fun little web-based maze game where you guide the key to the house using arro
 
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/saivarshith123/Maze-Game.git
     ```
 2. Navigate to the project folder:
     ```bash
-    cd 
+    cd Maze-Game
     ```
 3. Open `index.html` in your web browser.
 
