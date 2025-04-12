@@ -42,7 +42,3 @@ A fun little web-based maze game where you guide the key to the house using arro
 
 **Gotam Sai Varshith**  
 Built with 💖 for learning and fun!
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
