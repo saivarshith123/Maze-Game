@@ -35,9 +35,8 @@ A fun little web-based maze game where you guide the key to the house using arro
 
 ## 📸 Screenshot
 
-![Maze Game Screenshot](https://via.placeholder.com/800x400.png?text=Your+Screenshot+Here)
+![image](https://github.com/user-attachments/assets/c934aac3-a134-4be1-90be-e007baa16ea7)
 
-*(replace the link above with a real screenshot once you upload one!)*
 
 ## 👨‍💻 Author
 
